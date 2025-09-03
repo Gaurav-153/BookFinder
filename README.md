@@ -56,7 +56,14 @@ https://openlibrary.org/search.json?q={query}&page={page}&limit={limit}
 2.Supports both light mode and dark mode
 3.Uses modern gradient backgrounds and animations
 ```
-
+### 🎯 How It Works
+```bash
+1.User enters a query in the search bar.
+2.The app calls the Open Library API with pagination.
+3.Results show up in book cards with title, author, and cover image.
+4.Clicking a book opens a details modal.
+5.User can toggle between light & dark mode.
+```
 
 
 
