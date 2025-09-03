@@ -32,3 +32,48 @@ It also supports **dark mode**, **pagination**, **loading skeletons**, and a **b
 git clone https://github.com/your-username/book-finder-app.git
 cd book-finder-app
 ```
+### 2️⃣ Install dependencies
+```bash
+npm install
+```
+### 3️⃣ Start the development server
+```bash
+npm run dev
+App will run at:
+http://localhost:5173
+```
+### 4️⃣ Build for production
+```bash
+npm run build
+```
+### 🌐 API Reference
+```bash
+https://openlibrary.org/search.json?q={query}&page={page}&limit={limit}
+```
+### 📱 Responsive Design
+```bash
+1.Works on desktop, tablet, and mobile
+2.Supports both light mode and dark mode
+3.Uses modern gradient backgrounds and animations
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
